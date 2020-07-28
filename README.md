@@ -10,22 +10,22 @@ Updating the notebooks with PyMC3 v3.5 and general code clean-up. Inserting plot
  
 </P>
 <IMG src='https://9b8e0032-a-62cb3a1a-s-sites.googlegroups.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed/CoverDBDA2E-FrontOnly-600wide.png' height=30% width=30%><P>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Hierarchical Models</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2010.ipynb'>Chapter 10 - Model Comparison and Hierarchical Modelling</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2012.ipynb'>Chapter 12 - Bayesian Approaches to Testing a Point ("Null") Hypothesis</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2016.ipynb'>Chapter 16 - Metric-Predicted Variable on One or Two Groups</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2017.ipynb'>Chapter 17 - Metric-Predicted Variable with One Metric Predictor</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2018.ipynb'>Chapter 18 - Metric Predicted Variable with Multiple Metric Predictors</A><BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2019.ipynb'>Chapter 19 - Metric Predicted Variable with One Nominal Predictor</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2020.ipynb'>Chapter 20 - Metric Predicted Variable with Multiple Nominal Predictor</A><BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2021.ipynb'>Chapter 21 - Dichotomous Predicted Variable</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2022.ipynb'>Chapter 22 - Nominal Predicted Variable</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2023.ipynb'>Chapter 23 - Ordinal Predicted Variable</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2024.ipynb'>Chapter 24 - Count Predicted Variable</A> (PyMC3 3.5)
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Hierarchical Models</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2010.ipynb'>Chapter 10 - Model Comparison and Hierarchical Modelling</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2012.ipynb'>Chapter 12 - Bayesian Approaches to Testing a Point ("Null") Hypothesis</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2016.ipynb'>Chapter 16 - Metric-Predicted Variable on One or Two Groups</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2017.ipynb'>Chapter 17 - Metric-Predicted Variable with One Metric Predictor</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2018.ipynb'>Chapter 18 - Metric Predicted Variable with Multiple Metric Predictors</A><BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2019.ipynb'>Chapter 19 - Metric Predicted Variable with One Nominal Predictor</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2020.ipynb'>Chapter 20 - Metric Predicted Variable with Multiple Nominal Predictor</A><BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2021.ipynb'>Chapter 21 - Dichotomous Predicted Variable</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2022.ipynb'>Chapter 22 - Nominal Predicted Variable</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2023.ipynb'>Chapter 23 - Ordinal Predicted Variable</A> (PyMC3 3.5)<BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2024.ipynb'>Chapter 24 - Count Predicted Variable</A> (PyMC3 3.5)
 <P>
 Extra:<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/Various-Machine-Learning-bits/blob/master/Bayesian%20Linear%20Regression.ipynb'>Bayesian Linear Regression example (Bishop, 2006)</A><BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Ordinal%20Model_Kruschke_Liddell.ipynb'>Example on modelling Ordinal Data (Liddell & Kruschke, 2018)</A>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/Various-Machine-Learning-bits/blob/master/Bayesian%20Linear%20Regression.ipynb'>Bayesian Linear Regression example (Bishop, 2006)</A><BR>
+<A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Ordinal%20Model_Kruschke_Liddell.ipynb'>Example on modelling Ordinal Data (Liddell & Kruschke, 2018)</A>
 <P>
 Libraries used:
 

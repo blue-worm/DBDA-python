@@ -6,7 +6,7 @@ Note that the code is in Jupyter Notebook format and requires modification to us
 
 Some of the general concepts from the book are discussed in papers by Kruschke & Liddell. See references below.
 
-<IMG src='https://lh5.googleusercontent.com/pGjI0ca5PtEg9OH3uB--bX7Q5tIYPqIgh8JrclrxexjwDTnirxrkciCP30Pe5xkS5TAV0Yh0=w16383' height=30% width=30%><P>
+### Notebooks
 
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%205.ipynb'>Chapter 5 - Bayes' Rule</A><BR>
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%206.ipynb'>Chapter 6 - Inferring a Binomial Probability via Exact Mathematical Analysis</A><BR>
@@ -33,7 +33,7 @@ Libraries used:
  - matplotlib
  - seaborn
 
-#### References:
+### References:
 Kruschke, J.K. (2015), <I>Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan</I>, Second Edition, Academic Press / Elsevier, https://sites.google.com/site/doingbayesiandataanalysis/
 <P>
 Kruschke, J.K. & Liddell, T.M. (2017), <I>The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective</I>, Psychonomic Bulletin & Review, http://dx.doi.org/10.3758/s13423-016-1221-4
@@ -45,7 +45,7 @@ Liddell, T., & Kruschke, J. K. (2018, April 5). Analyzing ordinal data with metr
 Salvatier J, Wiecki TV, Fonnesbeck C. (2016), <I>Probabilistic programming in Python using PyMC3</I>, PeerJ Computer Science 2:e55, https://doi.org/10.7717/peerj-cs.55 <BR>
 PyMC3 - http://pymc-devs.github.io/pymc3/
 
-#### Note:
+### Note:
 The repository below contains python code for the first edition of the book. The code in that repository is a much more direct implementation of the R/JAGS code from the book than you will find here.
 
 https://github.com/aloctavodia/Doing_bayesian_data_analysis

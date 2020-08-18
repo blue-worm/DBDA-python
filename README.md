@@ -6,7 +6,7 @@ Note that the code is in Jupyter Notebook format and requires modification to us
 
 Some of the general concepts from the book are discussed in papers by Kruschke & Liddell. See references below.
 
-<IMG src='https://9b8e0032-a-62cb3a1a-s-sites.googlegroups.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed/CoverDBDA2E-FrontOnly-600wide.png' height=30% width=30%><P>
+<IMG src='https://lh5.googleusercontent.com/pGjI0ca5PtEg9OH3uB--bX7Q5tIYPqIgh8JrclrxexjwDTnirxrkciCP30Pe5xkS5TAV0Yh0=w16383' height=30% width=30%><P>
 
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%205.ipynb'>Chapter 5 - Bayes' Rule</A><BR>
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%206.ipynb'>Chapter 6 - Inferring a Binomial Probability via Exact Mathematical Analysis</A><BR>

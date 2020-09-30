@@ -23,7 +23,7 @@ Some of the general concepts from the book are discussed in papers by Kruschke &
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2023.ipynb'>Chapter 23 - Ordinal Predicted Variable</A><BR>
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/Chapter%2024.ipynb'>Chapter 24 - Count Predicted Variable</A><BR>
 <P>
-Other notebooks:
+Other notebooks:<BR>
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/ppc.ipynb'>Posterior Predictive Checking</A><BR>
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/bayes-factors.ipynb'>Bayes' Factors</A><BR>
 <P>

@@ -1,10 +1,8 @@
-# Doing Bayesian Data Analysis - Python/PyMC3
+# Bayesian Data Analysis - Python/PyMC3
 
-This repository contains Python/PyMC3 code for a selection of models and figures from the book _Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'_, Second Edition, by John Kruschke (2015).  The datasets used in this repository have been retrieved from [the book's website](https://sites.google.com/site/doingbayesiandataanalysis/).  Note that, this repository is not a standalone tutorial and that you probably should have a copy of the book to follow along. Suggestions for improvement and help with unsolved issues are welcome!
+This repository contains Python/PyMC3 code designed as an introduction for those familiar with introductory statisical concepts, likely from a null hypothesis significance testing (NHST) perspective.  The code began life as a python implementation of models/figures from the book _Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'_, Second Edition, by John Kruschke (2015), but has migrated quite a bit since then.  Given the age of that book and the ever-advancing development of PyMC3, attempting to implement the book's models exactly has become less useful.
 
-Note that the code is in Jupyter Notebook format and requires modification to use with other datasets.
-
-Some of the general concepts from the book are discussed in papers by Kruschke & Liddell. See references below.
+The datasets used in this repository have been retrieved from [the book's website](https://sites.google.com/site/doingbayesiandataanalysis/).  Note that, this repository is not a standalone tutorial and will be far more helpful with guidance (e.g., Kruschke's book).  Questions, suggestions for improvement, and/or help with further development of the notebooks are always welcome!
 
 ### Notebooks
 
@@ -28,25 +26,23 @@ Other notebooks:<BR>
 <A href='http://nbviewer.jupyter.org/github/cluhmann/DBDA-python/blob/master/Notebooks/bayes-factors.ipynb'>Bayes' Factors</A><BR>
 <P>
 
-Libraries used:
+Libraries used/required:
 
  - pymc3
- - theano
+ - arviz
  - pandas
  - numpy
  - scipy
  - matplotlib
  - seaborn
 
-### References:
+### Related References:
 Kruschke, J.K. (2015), <I>Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan</I>, Second Edition, Academic Press / Elsevier, https://sites.google.com/site/doingbayesiandataanalysis/
 <P>
 Kruschke, J.K. & Liddell, T.M. (2017), <I>The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective</I>, Psychonomic Bulletin & Review, http://dx.doi.org/10.3758/s13423-016-1221-4
 <P>
 Kruschke, J.K. & Liddell, T.M. (2017), <I>Bayesian data analysis for newcomers</I>, Psychonomic Bulletin & Review, http://dx.doi.org/10.3758/s13423-017-1272-1
 <P>
-Liddell, T., & Kruschke, J. K. (2018, April 5). Analyzing ordinal data with metric models: What could possibly go wrong? Retrieved from http://osf.io/3tkz4 
- <P>
 Salvatier J, Wiecki TV, Fonnesbeck C. (2016), <I>Probabilistic programming in Python using PyMC3</I>, PeerJ Computer Science 2:e55, https://doi.org/10.7717/peerj-cs.55 <BR>
 PyMC3 - http://pymc-devs.github.io/pymc3/
 

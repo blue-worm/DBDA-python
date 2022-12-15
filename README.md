@@ -1,4 +1,4 @@
-# Bayesian Data Analysis - Python/PyMC3
+# Bayesian Data Analysis - Python/PyMC
 
 This repository contains Python/PyMC3 code designed as an introduction for those familiar with introductory statisical concepts, likely from a null hypothesis significance testing (NHST) perspective.  The code began life as a python implementation of models/figures from the book _Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan_, Second Edition, by John Kruschke (2015), but has meandered quite a bit since then.  Given the age of that book and the ever-advancing development of PyMC3, attempting to reproduce the book's models exactly has seemed less and less useful.
 
